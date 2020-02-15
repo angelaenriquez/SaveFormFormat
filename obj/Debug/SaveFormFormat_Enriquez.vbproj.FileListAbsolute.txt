@@ -9,3 +9,6 @@ C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enri
 C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.exe
 C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.xml
 C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.pdb
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.vbproj.CopyComplete
