@@ -1,0 +1,11 @@
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\bin\Debug\SaveFormFormat_Enriquez.exe.config
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\bin\Debug\SaveFormFormat_Enriquez.exe
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\bin\Debug\SaveFormFormat_Enriquez.pdb
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\bin\Debug\SaveFormFormat_Enriquez.xml
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.vbprojAssemblyReference.cache
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.Form1.resources
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.Resources.resources
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.vbproj.GenerateResource.cache
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.exe
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.xml
+C:\Users\RYAN\source\repos\SaveFormFormat_Enriquez\obj\Debug\SaveFormFormat_Enriquez.pdb
